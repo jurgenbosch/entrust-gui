@@ -16,7 +16,7 @@
         "illuminate/support": "~5.5",
         "zizaco/entrust":  "~5.2",
         "prettus/l5-repository": "^2.1",
-        "esensi/model": "0.5.*"
+        "esensi/model": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "~5.7",
